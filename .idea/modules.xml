@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Credit_algorithm/.idea/Credit_algorithm.iml" filepath="$PROJECT_DIR$/../Credit_algorithm/.idea/Credit_algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/arcagent.iml" filepath="$PROJECT_DIR$/.idea/arcagent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../deep learn learning/.idea/deep learn learning.iml" filepath="$PROJECT_DIR$/../deep learn learning/.idea/deep learn learning.iml" />
     </modules>
   </component>
 </project>

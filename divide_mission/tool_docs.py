@@ -1,0 +1,22 @@
+tool_docs = [
+    ("Buffer_analysis", "Create buffer polygons around input features at a specified distance."),
+    ("Clip_analysis", "Extract input features that fall within the boundary of clip features."),
+    ("Project_management", "Transform spatial data from one coordinate system to another."),
+    ("Kernel_Density", "Generate a raster surface showing the density of features in a neighborhood."),
+    ("SpatialJoin_analysis", "Join attributes from one feature layer to another based on spatial relationship."),
+    ("SummaryStatistics", "Summarize field values by group, producing a standalone table."),
+    ("SelectLayerByAttribute", "Select features from a layer based on attribute query expressions."),
+    ("GenerateNearTable_analysis", "Create a table recording the distance to nearest features."),
+    ("TableToTable_conversion", "Export a table from one format or location to another."),
+    ("Erase_analysis", "Remove areas of input features that overlap with erase features."),
+    ("Dissolve_management", "Aggregate features based on a common attribute to form larger units."),
+    ("Identity_analysis", "Overlay two layers and append attributes of identity features to input features."),
+    ("Near_analysis", "Calculate distance from each feature to the nearest feature in another layer."),
+    ("Split_analysis", "Split input features into multiple outputs based on boundaries or attribute values."),
+    ("FeatureToPoint_management", "Create points at the centroid or inside location of polygon features."),
+    ("FeatureVerticesToPoints_management", "Convert feature vertices into individual point features."),
+    ("FeatureToLine_management", "Convert input polygons or multipart features into line features."),
+    ("CopyFeatures_management", "Copy a shapefile to a new path using arcpy.CopyFeatures_management."),
+    ("Intersect_analysis", "Perform geometric intersection between two shapefiles and output overlapping features."),
+    ("Union_analysis","Performs a Union overlay analysis on multiple shapefiles using arcpy.Union_analysis")
+]
